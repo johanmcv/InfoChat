@@ -1,0 +1,15 @@
+"Phrases"
+{
+	"Discord" 
+	{
+		"en"	"{darkblue}Coming soon {lightred}♥"
+	}
+	"Steam" 
+	{
+		"en"	"{darkblue}Steam: {green}https://steamcommunity.com/groups/teamcoderekt {lightred}♥"
+	}
+	"Website" 
+	{
+		"en"	"{darkblue}Website: {default}www.johanvillamizar.com {orchid}♥"
+	}
+}
